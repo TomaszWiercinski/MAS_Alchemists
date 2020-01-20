@@ -1,0 +1,11 @@
+Mage:
+[Integer:pouch],
+[Char:prod_type_1];[String:prod_name_1];[Integer:prod_count_1],
+...
+[Char:prod_type_n];[String:prod_name_n];[Integer:prod_count_n],
+
+Brewery:
+[Integer:fee],
+[String:product_name_1];[Char:ingr_type_1_1];[String:ingr_name_1_1]; ... ;[Char:ingr_type_1_n];[String:ingr_name_1_n],
+...
+[String:product_name_m];[Char:ingr_type_m_1];[String:ingr_name_m_1]; ... ;[Char:ingr_type_m_n];[String:ingr_name_m_n]

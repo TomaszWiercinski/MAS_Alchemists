@@ -1,0 +1,4 @@
+Brewery/pl.gda.pg.eti.kask.sa.alchemists.agents.Brewery/5,PotionA;h;HerbA
+HerbalistA/pl.gda.pg.eti.kask.sa.alchemists.agents.Herbalist/HerbA;10
+HerbalistB/pl.gda.pg.eti.kask.sa.alchemists.agents.Herbalist/HerbA;15
+Mage/pl.gda.pg.eti.kask.sa.alchemists.agents.Mage/30,p;PotionA,h;HerbA

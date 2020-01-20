@@ -1,0 +1,4 @@
+Assumptions:
+ - There can only exist one recipe for a product, 
+	i.e. no two recipies with different ingredients but identical final product can exist.
+	(duplicate recipies from craftsperson agents with different fees are fine)

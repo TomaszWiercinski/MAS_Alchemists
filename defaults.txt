@@ -1,0 +1,20 @@
+Default Arguments:
+Mage:
+	Pouch - 50 Knuts
+	Spirited Potion, Uplifting Potion, Oak Wand
+Alchemist:
+	Spirited Potion - 10 Knuts
+	Uplifting Potion - 15 Knuts
+	The Dreamweaver's Spirit - 50 Knuts
+Hebralist:
+	Spirit Grass - 5 Knuts
+	Glitter Berry - 10 Knuts
+	Dream Mint - 20 Knuts
+Wand Seller:
+	Oak Wand - 10 Knuts
+	Sandalwood Wand - 20 Knuts
+Brewery:
+	Fee - 5 Knuts
+	Spirited Potion - Oak Wand, Spirit Grass
+	Uplifting Potion - Oak Wand, Glitter Berry
+	The Dreamweaver's Spirit - Sandalwood Wand, Dream Mint, Spirit Grass

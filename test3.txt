@@ -1,0 +1,4 @@
+AlchemistA/pl.gda.pg.eti.kask.sa.alchemists.agents.Alchemist/PotionA;10;2,PotionA;20
+AlchemistB/pl.gda.pg.eti.kask.sa.alchemists.agents.Alchemist/PotionA;15,PotionA;25,PotionB;5
+Brewery/pl.gda.pg.eti.kask.sa.alchemists.agents.Brewery/5,PotionA;h;HerbA,PotionB;h;HerbB
+Mage/pl.gda.pg.eti.kask.sa.alchemists.agents.Mage/40,p;PotionA;3,p;PotionB
