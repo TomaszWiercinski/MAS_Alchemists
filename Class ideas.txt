@@ -1,4 +1,0 @@
-MageThief:
- - Can steal N products.
- - During negotiation phase, wants N of the most expensive products.
-
